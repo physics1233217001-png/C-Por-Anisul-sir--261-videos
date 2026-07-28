@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/badhonmondol/Desktop/vs code/C P/C P-1",
+      "program": "/Users/badhonmondol/Desktop/vs code/C P/C P-1/build/Debug/outDebug"
+    }
+  ]
+}
