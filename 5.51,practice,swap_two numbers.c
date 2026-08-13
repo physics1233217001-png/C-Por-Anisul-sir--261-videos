@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-int num1 = 5 ;
-int num2 = 10 ;
+int num1 = 10 ;
+int num2 = 5 ;
 int temp;
 temp = num1;
 num1 = num2;
